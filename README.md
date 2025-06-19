@@ -1,0 +1,2 @@
+# ExoDec
+Exoplanet Detection Model
