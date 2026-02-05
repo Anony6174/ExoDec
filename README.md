@@ -4,12 +4,12 @@ ExoDec is a Deep Learning-based project designed to detect exoplanets using data
 
 The project relies on the **Transit Photometry Method**.
 
-**The Transit Method**: When a planet passes in front of its host star (from our perspective), it blocks a tiny fraction of the star's light, causing a periodic dip in brightness.
-**Light Curves**: A graph of brightness vs. time. A planet candidate typically shows a U-shaped or V-shaped dip that repeats at a regular interval (the planet's orbital period).
+**The Transit Method**: When a planet passes in front of its host star (from our perspective), it blocks a tiny fraction of the star's light, causing a periodic dip in brightness.  \\
+**Light Curves**: A graph of brightness vs. time. A planet candidate typically shows a U-shaped or V-shaped dip that repeats at a regular interval (the planet's orbital period).  \\
 **False Positives**: Not all dips are planets. They can be caused by:
-       **Eclipsing Binaries (EBs)**: Two stars orbiting each other.
-       **Instrumental Flux**: Noise from the telescope.
-       **Stellar Variability**: Spots or flares on the star.
+       **Eclipsing Binaries (EBs)**: Two stars orbiting each other.  \\
+       **Instrumental Flux**: Noise from the telescope.  \\
+       **Stellar Variability**: Spots or flares on the star.  \\
 
 ![alt text](image.png)
 
