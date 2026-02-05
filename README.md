@@ -13,7 +13,7 @@ The project relies on the **Transit Photometry Method**.
 
 ![alt text](image.png)
 
-# 3. Implementation Details
+# Implementation Details
 
 ### Data Pipeline
 1.  **Input Data**: The system uses TESS Light Curves (`.fits` files) sourced via the `lightkurve` library.
