@@ -1,0 +1,13 @@
+
+lightkurve==1.11.1
+tensorflow
+numpy
+pandas
+scipy
+argparse
+wotan
+warnings
+multiprocessing
+astropy
+tqdm
+matplotlib

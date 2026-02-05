@@ -1,0 +1,5 @@
+1. Create virtual environment and activate it.
+2. run start.ps1 in powershell inside the venv
+3. if TFrecords\Large\train and \TFrecords\Large\test are not present then create these empty folders
+4. if `all_lcs` folder is empty then run tess_download.ps1
+5. then run final_build.ps1
